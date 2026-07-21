@@ -6,10 +6,9 @@ Automatically capture website contact form submissions, qualify leads with AI, s
 
 # 🤖 AI Contact Form Automation
 
-![n8n](https://img.shields.io/badge/Built%20with-n8n-ff6d5a?logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?logo=openai)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![n8n](https://img.shields.io/badge/Built%20with-n8n-ff6d5a?logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?logo=openai) ![Status](https://img.shields.io/badge/Status-Production%20Ready-success) ![License](https://img.shields.io/badge/License-MIT-blue)
+
+---
 
 ## 🚀 Features
 
@@ -82,9 +81,10 @@ Perfect for:
 
 ## 📥 Download
 
-⭐ The production-ready version, including advanced features and premium support, is available here:
+⭐ Free workflow available on GitHub.
 
-👉 **https://buymeacoffee.com/YOUR_USERNAME**
+Production version available on request.
+
 
 ---
 
